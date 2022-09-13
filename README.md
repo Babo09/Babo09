@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### 🛠 Tech Stack
+  ### 🛠 Tech Stacks
   
 </div>
 
@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   
-  ### 📚 Study
+  ### 📚 Study after
   
 </div>
 
