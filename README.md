@@ -1,3 +1,1 @@
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babo09)](https://github.com/Babo09/github-readme-stats)
-</div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
