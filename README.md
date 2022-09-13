@@ -1,1 +1,1 @@
-https://img.shields.io/discord/1015487797139886141?color=3776AB&label=Ellies%27s%20farm&logoColor=white
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield" alt="Discord Shield"/>
