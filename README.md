@@ -15,6 +15,7 @@
   
 </div>
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=FFFFFF">
@@ -27,7 +28,7 @@
  
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babo09&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babo09)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babo09&show_icons=true&theme=radical)
   
 </div>
 
