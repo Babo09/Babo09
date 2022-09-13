@@ -1,1 +1,1 @@
-<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield" alt="Discord Shield"/>
+![Discord Shield](https://discordapp.com/api/guilds/1015487797139886141/widget.png?style=shield)
